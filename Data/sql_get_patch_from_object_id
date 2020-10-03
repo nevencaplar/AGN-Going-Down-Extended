@@ -1,0 +1,9 @@
+SELECT 
+    object_id 
+    ,ra 
+    ,dec 
+    ,patch_s  
+    ,tract  
+FROM  
+    s18a_wide.forced 
+WHERE 
